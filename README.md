@@ -9,7 +9,7 @@ podman build -t js-dos-container .
 ```
 
 # Choosing a game
-Review the games.csv file and set the GAME environment variable to the name of the game (the first value). 
+Review the public/games.csv file and set the GAME environment variable to the name of the game (the first value). 
 
 Local example: 
 ```shell
